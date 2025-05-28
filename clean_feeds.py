@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 import logging
 
 FEEDS_DIR = '/opt/rss_collector/rss_feeds'
-DAYS_OLD = 0
+DAYS_OLD = 10
 
 def clean_old_files(directory, days_old):
     now = time.time()
