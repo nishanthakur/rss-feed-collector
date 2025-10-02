@@ -1,6 +1,6 @@
 # RSS Feed Collector
 
-A tool for collecting and processing RSS feeds.
+A tool for collecting and processing RSS feeds which can be sent to SIEM solution for data enrichment.
 
 ## Usage
 1. Go to `/opt/` directory inside your linux machine.
